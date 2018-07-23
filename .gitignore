@@ -3,6 +3,7 @@
 *~
 /log
 /parsec-3.0
+/pkgs/libs/gsl/src/doc
 /pkgs/libs/gsl/src/doc/gsl-ref.info*
 /pkgs/tools/libtool/src/doc/libtool.info*
 autom4te.cache
